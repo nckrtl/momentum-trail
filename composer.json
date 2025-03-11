@@ -1,5 +1,5 @@
 {
-  "name": "based/momentum-trail",
+  "name": "nckrtl/momentum-trail",
   "description": "Fully typed frontend route helper for Laravel apps",
   "type": "library",
   "license": "MIT",
